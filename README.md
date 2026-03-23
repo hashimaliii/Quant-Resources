@@ -4,15 +4,6 @@ Welcome! This repository serves as a centralized hub for my journey into **Quant
 
 ---
 
-## 🗺️ The 2026 Quant Dev Roadmap
-I am currently following a structured path to transition from a beginner to a production-ready Quant Developer:
-1. **Phase 1: High-Performance Core** (Modern C++ 17/20, Concurrency, & Systems)
-2. **Phase 2: Financial Engineering** (Derivatives Pricing & Stochastic Calculus)
-3. **Phase 3: Market Dynamics** (Market Microstructure & Limit Order Books)
-4. **Phase 4: Quantitative Interview Prep** (Green Book & Brain Teasers)
-
----
-
 ## 📚 Curated Bookshelf
 
 ### 💻 Technical & Systems Engineering
